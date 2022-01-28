@@ -1,5 +1,5 @@
 import React from 'react';
-import masina from "../../assets/masina.png"
+import masina from "../../assets/town.png"
 import "../../Styling/car.css"
 
 export default function Car() {
