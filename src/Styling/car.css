@@ -7,6 +7,14 @@
     align-items: center;
     position: relative;
 }
+.stripe
+{
+    width: 100vw;
+    height: 12px;
+    background-image: url(../assets/taxi-stripe.jpg);
+    background-image: cover;
+    z-index: 9999;
+}
 .car
 {
     display: flex;
