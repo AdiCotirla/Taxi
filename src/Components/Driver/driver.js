@@ -5,7 +5,7 @@ import "../../Styling/driver.css"
 export default function Driver() {
     return <div className='container-drivers'>
         <div className='install'>
-       <h1>Contacteaza soferii:</h1>
+       <h1>Drivers</h1>
         </div>
     {driverData.map((driver, index) => {
         return(
