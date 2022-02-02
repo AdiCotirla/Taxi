@@ -10,10 +10,9 @@
 .stripe
 {
     width: 100vw;
-    height: 12px;
+    height: 2%;
+    min-height: 2%;
     background-image: url(../assets/taxi-stripe.jpg);
-    background-image: cover;
-    z-index: 9999;
 }
 .car
 {
@@ -22,7 +21,7 @@
     align-items: center;
     align-content: center;
     width: 90vw;
-    height: 100%;
+    height: 96%;
 }
 .car > img 
 {
