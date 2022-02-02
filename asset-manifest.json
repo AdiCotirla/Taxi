@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Taxi/static/css/main.78b985ae.css",
+    "main.css": "/Taxi/static/css/main.102236c5.css",
     "main.js": "/Taxi/static/js/main.26c44e5c.js",
     "static/js/787.2b7e62db.chunk.js": "/Taxi/static/js/787.2b7e62db.chunk.js",
     "static/media/town.png": "/Taxi/static/media/town.2f108b76229e9dbba630.png",
@@ -9,12 +9,12 @@
     "static/media/taxi-stripe.jpg": "/Taxi/static/media/taxi-stripe.917ed64e5d70a3ff0ab4.jpg",
     "static/media/profil.jpg": "/Taxi/static/media/profil.92fc2bd5fc339b5ad655.jpg",
     "index.html": "/Taxi/index.html",
-    "main.78b985ae.css.map": "/Taxi/static/css/main.78b985ae.css.map",
+    "main.102236c5.css.map": "/Taxi/static/css/main.102236c5.css.map",
     "main.26c44e5c.js.map": "/Taxi/static/js/main.26c44e5c.js.map",
     "787.2b7e62db.chunk.js.map": "/Taxi/static/js/787.2b7e62db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78b985ae.css",
+    "static/css/main.102236c5.css",
     "static/js/main.26c44e5c.js"
   ]
 }
