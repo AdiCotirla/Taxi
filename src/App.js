@@ -5,6 +5,7 @@ import Car from './Components/CarContent/car';
 import Driver from './Components/Driver/driver';
 import King from './Components/King/king';
 import Footer from './Components/Footer/footer';
+import City from './Components/City/city';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <Car/>
       <King/>
+      <City/>
       <Driver/>
       <Footer/>
     </div>
