@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Taxi/static/css/main.5a84a24f.css",
-    "main.js": "/Taxi/static/js/main.1c1e286d.js",
+    "main.css": "/Taxi/static/css/main.9dd15f55.css",
+    "main.js": "/Taxi/static/js/main.9c7165ae.js",
     "static/js/787.2b7e62db.chunk.js": "/Taxi/static/js/787.2b7e62db.chunk.js",
     "static/media/town.png": "/Taxi/static/media/town.2f108b76229e9dbba630.png",
     "static/media/reghin2.jpg": "/Taxi/static/media/reghin2.88cfa048aa222a2cea0e.jpg",
@@ -11,12 +11,12 @@
     "static/media/taxi-stripe.jpg": "/Taxi/static/media/taxi-stripe.dd4bf25bc5fdb8d8bb46.jpg",
     "static/media/profil.jpg": "/Taxi/static/media/profil.92fc2bd5fc339b5ad655.jpg",
     "index.html": "/Taxi/index.html",
-    "main.5a84a24f.css.map": "/Taxi/static/css/main.5a84a24f.css.map",
-    "main.1c1e286d.js.map": "/Taxi/static/js/main.1c1e286d.js.map",
+    "main.9dd15f55.css.map": "/Taxi/static/css/main.9dd15f55.css.map",
+    "main.9c7165ae.js.map": "/Taxi/static/js/main.9c7165ae.js.map",
     "787.2b7e62db.chunk.js.map": "/Taxi/static/js/787.2b7e62db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a84a24f.css",
-    "static/js/main.1c1e286d.js"
+    "static/css/main.9dd15f55.css",
+    "static/js/main.9c7165ae.js"
   ]
 }
