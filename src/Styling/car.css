@@ -2,6 +2,7 @@
 {
     display: flex;
     width: 100vw;
+    height: 60vh;
     flex-direction: column;
     align-items: center;
     position: relative;
@@ -23,10 +24,6 @@
 
 @media only screen and (max-width:1100px) 
 {
-    .car-content
-    {
-        height: 70vh;
-    }   
     .car
     {
         width: 100vw;

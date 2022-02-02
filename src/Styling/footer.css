@@ -1,0 +1,37 @@
+.footer-container
+{
+    position: relative;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 30%;
+    margin-top: 10vh;
+    background-color: rgba(0, 0, 0, 0.726);
+    font-size: 1rem;
+}
+.footer-three-divs
+{
+    margin-top: 2%;
+    display: flex;
+    width: 100vw;
+    justify-content:center;
+}
+
+.footer-contact
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 100vw;
+}
+.footer-rights
+{
+    margin-bottom: 2%;
+    margin-top: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}

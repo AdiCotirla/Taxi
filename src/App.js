@@ -4,6 +4,7 @@ import {BrowserRouter as Router} from "react-router-dom";
 import Car from './Components/CarContent/car';
 import Driver from './Components/Driver/driver';
 import King from './Components/King/king';
+import Footer from './Components/Footer/footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Car/>
       <King/>
       <Driver/>
+      <Footer/>
     </div>
     </Router>
   );
