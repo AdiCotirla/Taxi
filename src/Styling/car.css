@@ -13,8 +13,7 @@
     height: 24px;
     min-height: 2%;
     background-image: url(../assets/taxi-stripe.jpg);
-    /* background-size: cover; */
-    background-repeat: repeat;
+    background-size: cover;
 }
 .car
 {
@@ -37,8 +36,4 @@
     {
         width: 100vw;
     } 
-    /* .stripe
-    {
-        height: 12px;
-    } */
 }

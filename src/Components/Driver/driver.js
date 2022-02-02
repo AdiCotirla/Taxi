@@ -20,7 +20,7 @@ export default function Driver() {
                 </div>
                 <div className='driver-info-contact'>
                     <h1>Contact:</h1>
-                    <p>{driver.contact}</p>
+                    <a href={driver.contact}>{driver.contact}</a>
                 </div>
             </div>
         </div>
